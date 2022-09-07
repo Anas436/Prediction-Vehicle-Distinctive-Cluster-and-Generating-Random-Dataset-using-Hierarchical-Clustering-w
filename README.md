@@ -28,10 +28,11 @@ After completing this lab you will be able to:
     </ol>
 </div>
 <br>
-<hr>
+<div>
 
 <h1 id="clustering_vehicle_dataset">Clustering on Vehicle dataset</h1>
 
 Imagine that an automobile manufacturer has developed prototypes for a new vehicle. Before introducing the new model into its range, the manufacturer wants to determine which existing vehicles on the market are most like the prototypes--that is, how vehicles can be grouped, which group is the most similar with the model, and therefore which models they will be competing against.
 
 Our objective here, is to use clustering methods, to find the most distinctive clusters of vehicles. It will summarize the existing vehicles and help manufacturers to make decision about the supply of new models.
+</div>
